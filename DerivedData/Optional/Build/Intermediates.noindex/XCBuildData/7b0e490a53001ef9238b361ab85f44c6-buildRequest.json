@@ -1,0 +1,100 @@
+{
+  "buildCommand" : "preview",
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:Optional_Sources-PLAYGROUND-TARGET:/Users/kim-youngsuh/Desktop/workspace/swift/Optional.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "arm64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "iphonesimulator",
+          "sdk" : "iphonesimulator14.5",
+          "sdkVariant" : "iphonesimulator",
+          "supportedArchitectures" : [
+            "arm64",
+            "x86_64"
+          ],
+          "targetArchitecture" : "arm64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Products",
+          "derivedDataPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Index/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Index/PrecompiledHeaders",
+          "pchPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+              "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+              "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+              "DSTROOT" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex/Playgrounds/Optional/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex/Playgrounds/Optional/Intermediates.noindex",
+              "PACKAGE_BUILD_DYNAMICALLY" : "YES",
+              "SYMROOT" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex/Playgrounds/Optional/Products",
+              "TARGET_DEVICE_IDENTIFIER" : "3830434F-0FF5-4112-BAAA-196EEFB27EE1",
+              "TARGET_DEVICE_MODEL" : "iPad6,4",
+              "TARGET_DEVICE_OS_VERSION" : "14.5",
+              "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator14.5",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Products",
+      "derivedDataPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kim-youngsuh/Desktop/workspace/swift/DerivedData/Optional/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPad6,4",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "14.5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "3830434F-0FF5-4112-BAAA-196EEFB27EE1",
+          "TARGET_DEVICE_MODEL" : "iPad6,4",
+          "TARGET_DEVICE_OS_VERSION" : "14.5",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
