@@ -50,4 +50,19 @@ var function = add
 
 function(4,2)
 
+function = subtract
+function (4,2)
+
+func printResult(_ function :(Int, Int) -> Int , _ a : Int , _ b : Int){
+    let result = function(a,b)
+    print(result)
+}
+printResult( add, 2, 44)
+
+
+// optional
+/*
+  
+ 
+ */
 
