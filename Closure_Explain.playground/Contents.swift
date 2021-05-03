@@ -45,6 +45,7 @@ let Ex3Closure : (String) -> Void = {str in
  Ex3Closure("Hello World!")
 
 // Example 4 . 값을 리턴하는 Closure
+
 let Ex4Closure : (String) -> String = {str in
     let message = "입력된 메시지는 [\(str)] 입니다"
     return message
@@ -53,7 +54,10 @@ let result1 = Ex4Closure("안녕!")
 print(result1)
 
 var count = 0;
+
+
 // Example 5 . Closure를 파라미터로 받는 함수 구현
+
 func someSimpleFunction(Ex1Closure : () -> Void){
     print ("함수에서 호출이 되었어요")
     Ex1Closure()
