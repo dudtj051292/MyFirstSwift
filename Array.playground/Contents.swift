@@ -64,5 +64,5 @@ func StringToIntConverter(str s : String?){
 StringToIntConverter(str: optionStr)
 StringToIntConverter(str: "212")
 
-//이렇게 하면댐
+//이렇게 하면댐ㅇㅇㅇ
 
